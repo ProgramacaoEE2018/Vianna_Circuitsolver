@@ -11,3 +11,7 @@ Foi utilizado o seguinte tutorial:  http://pythonforengineers.com/your-first-gui
 Assim escolhida a interface gráfica do projeto como pyQT, construimos um simples taxador de juros, impostos ou etc. o usuário entra com o valor inicial, com a porcentagem de taxa e recebe o valor final com taxa.
 
 ![Screenshot](tutorial.png)
+
+
+
+No programa final "temp.py" tive o problema de referência dos botões com a interface gráfica o qual não consegui resolver. No código consta todos as etapas do algoritmo em questão nos comentários.
