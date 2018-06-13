@@ -17,3 +17,5 @@ Assim escolhida a interface gráfica do projeto como pyQT, construimos um simple
 No programa final "temp.py" tive o problema de referência dos botões com a interface gráfica o qual não consegui resolver. No código consta todos as etapas do algoritmo em questão nos comentários.
 
 Atualização: O programa roda mas sem a funcionalidade do serie e paralelo
+VIDEO DO PROGRAMA FUNCIONANDO 
+https://drive.google.com/file/d/1x3WHWjAxq7UFjYAZTbpM-uDJlIDd9tYd/view?usp=sharing
