@@ -3,7 +3,7 @@ Por matrizes e método de cramer, assim podendo extender a resolução para n la
 
 Motivação: Agilidade na resolução desse tipo de circuito para o cotidiano de um projetista.
 
-"plus": tentar implementar não só o calculo do circuito com resistência mas também com impedâncias, sendo nescessário a implementação de resloução de sistemas lineares de variaveis complexas.
+Programa final: resolver um circuito de 5 ou menos laços ( pois no mundo real, podemos dividir os circuitos desejados em etapas e assim 5 é um ótimo número para laços de um circuito analisado, isto é, dificilmente um circuito simples terá mais de 5 laços)
 
 Diagrama de classe do projeto antes de iniciar a execução.
 ![Screenshot](digclasses.png)
