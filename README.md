@@ -26,6 +26,7 @@ O programa final tem a seguinte interface gráfica:
 Para utilizar o programa deve-se escolher um circuito de 5 laços com o formato dessa figura
 ![Screenshot](circuito.jpg)
 onde tenha-se o valor das fontes de tensão e resistências. O programa devolverá a corrente em cada laço separado por ponto e virgula, como mostra o video do programa funcionando.
+A FUNCIONALIDADE SERIE E PARALELO ESTÁ EM VERSÃO BETA DE DESENVOLVIMENTO, PORTANTO NÃO ESTÁ FUNCIONANDO.
 
 Para compilar o programa, deve colocar o codigo temp.py e cicuitsolver.ui na mesma pasta e compilar os mesmo com seu compilador python. Observe se a versão do python QT e do Python instalada em seu computador é condizente com a do código.
 
