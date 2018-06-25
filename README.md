@@ -1,7 +1,7 @@
 Vianna_CircuitsolverProjeto: Programa para solucionar circuitos do tipo laços
-Por matrizes e método de cramer, assim podendo extender a resolução para n laços.
+Por matrizes e método de cramer.
 
-Motivação: Agilidade na resolução desse tipo de circuito para o cotidiano de um projetista.
+Motivação: Agilidade na resolução desse tipo de circuito para o cotidiano de um projetista ou técnico.
 
 Programa final: resolver um circuito de 5 ou menos laços ( pois no mundo real, podemos dividir os circuitos desejados em etapas e assim 5 é um ótimo número para laços de um circuito analisado, isto é, dificilmente um circuito simples terá mais de 5 laços)
 
