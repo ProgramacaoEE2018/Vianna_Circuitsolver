@@ -5,8 +5,10 @@ Motivação: Agilidade na resolução desse tipo de circuito para o cotidiano de
 
 "plus": tentar implementar não só o calculo do circuito com resistência mas também com impedâncias, sendo nescessário a implementação de resloução de sistemas lineares de variaveis complexas.
 
-Diagrama de classe:
+Diagrama de classe do projeto antes de iniciar a execução.
 ![Screenshot](digclasses.png)
+
+OBS: no diagrama de classes acima temos a ideia inicial do projeto, no entanto quando executei o projeto houve a nescessidade de mudar o diagrama de classes. Sendo assim, as classes se transformaram em objetos e a unica classe é a principal a qual chama os elementos do pyQT.
 
 Fluxograma do algoritmo do programa.
 ![Screenshot](fluxograma.png)
